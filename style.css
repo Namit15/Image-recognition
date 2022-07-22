@@ -1,0 +1,21 @@
+body{
+    color: whitesmoke;
+    background-color: rgb(41, 136, 173);
+    background-size: cover;
+}
+
+.heading{
+    width: 80%;
+    font-size: 40px;
+}
+
+#camera{
+    border: 2px dashed rgb(157, 255, 0);
+    width: 400px;
+    height: 300px;
+}
+
+#resultObjectName , #resultAccuracyNumber{
+    color: rgb(199, 104, 26);
+}
+
